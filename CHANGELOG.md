@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.1.0](https://github.com/karagenit/unitwise-parse/tree/v1.1.0) (2018-02-06)
+[Full Changelog](https://github.com/karagenit/unitwise-parse/compare/v1.0.2...v1.1.0)
+
+**Closed issues:**
+
+- Add to\_unitwise on String Object [\#3](https://github.com/karagenit/unitwise-parse/issues/3)
+
 ## [v1.0.2](https://github.com/karagenit/unitwise-parse/tree/v1.0.2) (2018-02-06)
 [Full Changelog](https://github.com/karagenit/unitwise-parse/compare/v1.0.1...v1.0.2)
 
