@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.0.1](https://github.com/karagenit/unitwise-parse/tree/v1.0.1) (2018-02-06)
+[Full Changelog](https://github.com/karagenit/unitwise-parse/compare/v1.0.0...v1.0.1)
+
+**Closed issues:**
+
+- Return nil if Argument is Nil [\#2](https://github.com/karagenit/unitwise-parse/issues/2)
+
 ## [v1.0.0](https://github.com/karagenit/unitwise-parse/tree/v1.0.0) (2018-02-06)
 
 
