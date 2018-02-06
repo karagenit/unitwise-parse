@@ -16,3 +16,10 @@ module Unitwise
     Unitwise::Measurement.new(values[0].to_f, values[1])
   end
 end
+
+# Standard library String object
+class String
+  def to_unitwise
+    Unitwise.parse self
+  end
+end
