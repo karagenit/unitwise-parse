@@ -9,6 +9,7 @@ module Unitwise
   # @return [Unitwise::Measurement]
   # @api public
   def self.parse(value)
+    return nil if value.nil?
     values = value.split(' ')
     return nil if values.length != 2
     return nil unless valid? values[1]

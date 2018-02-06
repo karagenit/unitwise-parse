@@ -13,7 +13,7 @@ class TestQuery < Test::Unit::TestCase
 
   def test_fail
     assert_nil Unitwise.parse("")
-    # assert_nil Unitwise.parse(nil) # FIXME: no method error
+    assert_nil Unitwise.parse(nil)
     assert_nil Unitwise.parse("5")
     assert_nil Unitwise.parse("g")
     assert_nil Unitwise.parse("5 Not-A-Unit")
